@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": false,
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "spellcheckLanguages": [
+    "en-AU",
+    "en-GB",
+    "en-US",
+    "id"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5f216a113c0f87a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93443196e477035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a9c558cabacacc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec3c89a055c4d80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5697c0cebe10f202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3789a90173647938",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41790a8cc367b295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2cf8905375c7183",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa371641d98c1c64",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc21512e57560706",
+    "type": "split",
+    "children": [
+      {
+        "id": "238d91452be0961f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f2b84bf48359f39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "537594a481612500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4c4e2cf7d51b757",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ccf0af9292f48ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "aba2ac5b788a6c44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "aba2ac5b788a6c44",
+  "lastOpenFiles": [
+    "The Modern JavaScript.md",
+    "UXUI Cheatsheets.md",
+    "Coursera/Design/Graphic Design Specialization.md",
+    "Coursera/Design/Graphic Design Specialization 1.md",
+    "Coursera/Design/UX Design Professional Certificate.md",
+    "Coursera/Design/User Research Notes (Add-On).md",
+    "Coursera/Programming/Data Structures.md",
+    "Coursera/Psychology/Introduction to Psychology.md",
+    "Coursera/Psychology/The Science of Well-Being.md",
+    "Coursera/Psychology/Timeline.png"
+  ]
+}
