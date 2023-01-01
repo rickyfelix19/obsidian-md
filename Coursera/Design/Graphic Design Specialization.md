@@ -45,3 +45,42 @@ Fundamentals of Graphic Design, as well as the other courses in the [Graphic Des
 	- **Generation** is just making as many objects as you can, just trying to continually make and to learn from that making as a continual process. So don't get put off if you get stuck or if you're having a hard time with anything. Just move on and try a different technique or a different way of working.
 	- **Iteration** is just that you make a lot of variations of the same thing. You don't just make one image and be done. You actually redraw the same image, try and remake it, rework it, make slightly different versions of it. And what this is allowing you to do is to really test drive your images. So that you make them and you look at them and you can assess which ones are working and which ones aren't.
 
+To create your images, here are some materials you can consider:
+
+- Pencil
+- Crayon Charcoal
+- Photograph
+- Watercolor
+- Colored pencil
+- Marker
+- Collage
+- Flat
+- Illustrator drawing
+- Scanned objects
+- Clay
+- Chalk
+- Sculpture
+- Found trash
+- Scraperboard
+- Lino cut
+- Monoprint
+- Blind drawing
+- Potato print
+- 3-d model
+- Photoshop manipulation
+- Ballpoint pen in one continuous line
+
+Also think about what kind of imagemaking aesthetics or strategies you might employ:
+
+- Any historical design or art movement
+- Cartoon
+- Realistic
+- Surreal
+- Symbol/icon
+- Impressionistic
+- Abstract
+- Historical
+- Complex
+- Minimal
+- Cubist
+- Decorative
